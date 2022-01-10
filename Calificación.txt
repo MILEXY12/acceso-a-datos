@@ -1,0 +1,10 @@
+Calificaciones:
+DAO ejercicios en clases 3.0
+DAO eliminar y actualizar 0.0
+DAO eliminar desde botón link .0
+DAO carga persona desde botón link seleccionar 0.0
+
+Observaciones:
+Falta menú de navegación
+Tarea atrasada
+Tarea incompleta
